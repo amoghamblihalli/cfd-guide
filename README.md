@@ -1,3 +1,8 @@
+# Steps
+1. Select CFD Model depending on application.
+2. Calculate y+ -> yp -> yh.
+3. Calculate growth rate.
+
 # Model
 
 | **Model**             | **Full Name**                          | **Description**                                                                                 | **Typical Applications**                                                                   | **Advantages**                                                                                              | **Limitations**                                                                           | **Recommended y+** | **Time Complexity** | **Empirical Nature** | **Reynolds Number Range** | **Special Notes / Cautions**                                                           | **Requires Boundary Conditions**          | **Wall Conditions**       | **Mesh (Type, Size)**                        | **Verifying Simulation Accuracy**                                               |
